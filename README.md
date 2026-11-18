@@ -63,32 +63,21 @@
 
 ## 🚀 Featured Projects
 
-<!-- 👉 Replace YOUR-REPO-NAME-1/2/3/4 with the exact names of your best repositories -->
-
 <div align="center">
 
-<a href="https://github.com/ayushdere96-glitch/YOUR-REPO-NAME-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushdere96-glitch&repo=YOUR-REPO-NAME-1&theme=tokyonight&hide_border=true" alt="Project 1" />
-</a>
-<a href="https://github.com/ayushdere96-glitch/YOUR-REPO-NAME-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushdere96-glitch&repo=YOUR-REPO-NAME-2&theme=tokyonight&hide_border=true" alt="Project 2" />
-</a>
-
-<a href="https://github.com/ayushdere96-glitch/YOUR-REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushdere96-glitch&repo=YOUR-REPO-NAME-3&theme=tokyonight&hide_border=true" alt="Project 3" />
-</a>
-<a href="https://github.com/ayushdere96-glitch/YOUR-REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushdere96-glitch&repo=YOUR-REPO-NAME-4&theme=tokyonight&hide_border=true" alt="Project 4" />
-</a>
+| 🎙️ Voice Bot Assistant | 📉 Customer Churn Prediction |
+|:---:|:---:|
+| AI voice assistant that listens and responds in real time | ML model that predicts which customers are likely to leave |
+| `Python` `LLMs` `Vercel` | `Python` `Scikit-learn` `Streamlit` |
+| [**▶ Live Demo**](https://aa-one-wine.vercel.app/) | [**▶ Live Demo**](https://customer-churn-prediction-esmabhde7rvmazjk6pkjrd.streamlit.app/) |
 
 </div>
 
-### 🔗 Live Demos
-
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 🎙️ **Voice Bot Assistant** | AI voice assistant that talks and responds in real time | Python, LLMs, Vercel | [Live Demo](https://aa-one-wine.vercel.app/) |
-| 📉 **Customer Churn Prediction** | ML model that predicts which customers are likely to leave | Python, Scikit-learn, Streamlit | [Live Demo](https://customer-churn-prediction-esmabhde7rvmazjk6pkjrd.streamlit.app/) |
+<!--
+  Want repo cards too? Remove the comment markers, then replace REPO-1 / REPO-2 with your exact repo names.
+  <a href="https://github.com/ayushdere96-glitch/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushdere96-glitch&repo=REPO-1&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ayushdere96-glitch/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushdere96-glitch&repo=REPO-2&theme=tokyonight&hide_border=true" /></a>
+-->
 
 ---
 
