@@ -1,36 +1,195 @@
+
 <h1 align="center">Hi 👋, I'm Ayush Dere</h1>
-<h3 align="center">Aspiring GenAI Engineer | AI/ML Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdere96-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdere96-glitch" /> </p>
+<h3 align="center">
+  Aspiring Generative AI Engineer | AI/ML Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushdere96-glitch" alt="ayushdere96-glitch" /></a> </p>
-
-- 🔭 I’m currently working on [Voice Bot Assistance](https://aa-one-wine.vercel.app/)
-
-- 🌱 I’m currently learning **AI/Ml**
-
-- 👯 I’m looking to collaborate on [Customer Churn Prediction](https://customer-churn-prediction-esmabhde7rvmazjk6pkjrd.streamlit.app/)
-
-- 💬 Ask me about **Python , Deep Learning , NLP , Pytorch , Langchain , Langraph**
-
-- 📫 How to reach me **ayushdere96@gmail.com**
-
-- ⚡ Fun fact **I Think I Am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-dere-661907308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-dere-661907308" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayushdere87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushdere87" height="30" width="40" /></a>
-<a href="https://instagram.com/ayushhh_188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushhh_188" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ayushdere6564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ayushdere6564" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ayushdere96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushdere96" height="30" width="40" /></a>
+<p align="center">
+  Building intelligent applications with Python, Machine Learning and Generative AI.
+  <br/>
+  Exploring LLMs, RAG, AI Agents and modern AI technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushdere96-glitch&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushdere96-glitch&show_icons=true&locale=en&layout=compact" alt="ayushdere96-glitch" /></p>
+<p align="center">
+  <a href="https://github.com/ayushdere96-glitch">
+    <img src="https://img.shields.io/badge/GitHub-Ayush%20Dere-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:ayushdere96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushdere96-glitch&show_icons=true&locale=en" alt="ayushdere96-glitch" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdere96-glitch&" alt="ayushdere96-glitch" /></p>
+## 👨‍💻 About Me
+
+- 🎯 Aspiring **Generative AI Engineer**
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
+- 🧠 Exploring **LLMs, RAG, LangChain, LangGraph and AI Agents**.
+- 🐍 Working with Python and AI/ML libraries.
+- 🚀 Building practical AI-powered applications.
+- 🤝 Open to collaborating on AI/ML and GenAI projects.
+- 📫 Reach me at: **ayushdere96@gmail.com**
+- ⚡ Fun fact: I think I'm funny!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### Data Science & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,mysql,postgresql" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Generative AI (Currently Exploring)
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2B6CB0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,flask" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 AI Voice Bot Assistance</h3>
+<p align="center">
+An interactive AI voice assistant designed to communicate with users and provide a conversational experience.
+</p>
+<p align="center">
+<a href="https://aa-one-wine.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Project-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">📊 Customer Churn Prediction</h3>
+<p align="center">
+A machine learning project that predicts customer churn using classification models and an interactive Streamlit dashboard.
+</p>
+<p align="center">
+<a href="https://customer-churn-prediction-esmabhde7rvmazjk6pkjrd.streamlit.app/">
+<img src="https://img.shields.io/badge/Live_Demo-View_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🎓 Placement Prediction</h3>
+<p align="center">
+A machine learning project focused on predicting student placement outcomes using academic and related features.
+</p>
+<p align="center">
+<a href="https://github.com/ayushdere96-glitch/placement-prediction">
+<img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🧠 More Projects Coming Soon</h3>
+<p align="center">
+Exploring new possibilities in Generative AI, LLM applications, RAG pipelines and autonomous AI agents.
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushdere96-glitch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdere96-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+### ⭐ Repository & Contribution Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayushdere96-glitch&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/followers/ayushdere96-glitch?label=Followers&style=for-the-badge&logo=github&color=blueviolet" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushdere96-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushdere96-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ayushdere96-glitch">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdere96-glitch&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-dere-661907308">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://kaggle.com/ayushdere87">
+    <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
+  <a href="https://instagram.com/ayushhh_188">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/c/@ayushdere6564">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/@ayushdere96">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Keep Learning | Keep Building | Keep Growing 🚀</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
